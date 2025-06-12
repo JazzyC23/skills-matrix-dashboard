@@ -1,8 +1,8 @@
-export default function Home() {
+export default function HomePage() {
   return (
-    <main>
-      <h1>Skills Matrix Dashboard</h1>
-      <p>Coming soon...</p>
+    <main style={{ padding: "2rem", fontFamily: "sans-serif" }}>
+      <h1>Welcome to the Skills Matrix Dashboard</h1>
+      <p>More features coming soon...</p>
     </main>
   );
 }
